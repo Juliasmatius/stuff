@@ -8,6 +8,8 @@ https://www.kiwi-electronics.com/en/electronics-parts-components-113/connectors-
 
 https://www.kiwi-electronics.com/en/electronics-parts-components-113/wires-jumperwires-120/premium-jumperwires-ribbon-40-wires-m-m-20cm-363
 
+https://www.kiwi-electronics.com/en/raspberry-pi-pico-starter-kit-w-o-pico-11275
+
 # motor thingies
 
 ## https://www.kiwi-electronics.com/en/electronics-parts-components-113/relays-actuators-337/4-channel-12v-relay-module-11326
